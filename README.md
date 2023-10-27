@@ -24,7 +24,7 @@ Aplicação criada para fins didáticos utilizando Java com Springboot implantad
 
 Esta API ficará disponível no Railway por um período de tempo limitado, mas este é um código-fonte aberto. Portanto, sintam-se à vontade para cloná-lo e modificá-lo.
 
--URL de Produção no Railway: [https://crud-completo.up.railway.app/crud-completo](https://crud-completo.up.railway.app/crud-completo)
+-URL de Produção no Railway: [https://crud-completo.up.railway.app/crud-completo](https://crud-completo.up.railway.app/crud-completo).
 
 Para clonar siga os passos:
 
